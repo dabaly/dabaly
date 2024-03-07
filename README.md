@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dabaly! <br/><a href="https://www.linkedin.com/in/samueldabalyhailu/">Cybersecurity Enthusiast</a></h1>
 
-<h2>👨‍💻 Certifications:</h2>
+<h2>✅ Certifications:</h2>
   1. <a href="https://www.credly.com/badges/c952c049-d54f-4781-aa29-c274d07405d9/accept">Introduction to Cybersecurity</a>
 
 
