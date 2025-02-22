@@ -18,16 +18,17 @@ I am passionate about technology but mostly cybersecurity and penetration testin
 
 ## 🎓 Certifications
 <details>
-  <summary>TryHackMe Certifications</summary>
-  <p>✔️ [PreSecurity](https://github.com/your-repo-tryhackme-cert1) &nbsp;*Completed*</p>
-  <p>✔️ [Cybersecurity 101](https://github.com/your-repo-tryhackme-cert2) &nbsp;*Completed*</p>
-  <p>🛠️ [Junior Penetration Tester](#) &nbsp;*In Progress*</p>
-  <p>📌 [Web Application Hacking](#) &nbsp;*Planned*</p>
+  <summary>Google Cybersecurity Certificate</summary>
+  <p></p>
 </details>
 <details>
-  <summary>Google Cybersecurity Certificate</summary>
-  <p>✔️ [Google Cybersecurity Certificate Repository](https://github.com/your-repo-name) &nbsp;*Completed*</p>
+  <summary>TryHackMe Certifications</summary>
+  <p>✔️ Pre Security</p>
+  <p>✔️ Cybersecurity 101</p>
+  <p>🛠️ Junior Penetration Tester</p>
+  <p>📌 Web App Hacking</p>
 </details>
+
 
 ---
 
