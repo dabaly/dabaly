@@ -19,7 +19,8 @@ I am passionate about technology but mostly cybersecurity and penetration testin
 ## 🎓 Certifications
 <details>
   <summary>Google Cybersecurity Certificate</summary>
-  <p></p>
+  
+🗒️ [View Report](https://github.com/dabaly/GCPC/blob/main/README.md)
 </details>
 <details>
   <summary>TryHackMe Certifications</summary>
