@@ -34,18 +34,8 @@ I am passionate about technology but mostly cybersecurity and penetration testin
 
 
 ## 🛠️ Skills & Tools
-- **Cybersecurity Tools:** Wireshark, Metasploit, Nmap, Burp Suite, John the Ripper, OSINT Tools
-- **Networking:** TCP/IP, Firewalls, VPN, Intrusion Detection Systems (IDS)
-- **OS:** Linux (Kali, Ubuntu), Windows
-
----
-
-## 📂 Featured Projects
-- 🔹 **[Project Name 1](#)** - Brief description of the project.
-- 🔹 **[Project Name 2](#)** - Brief description of the project.
-- 🔹 **[Project Name 3](#)** - Brief description of the project.
-
-_(More projects coming soon!)_
+- **Cybersecurity Tools:** Wireshark, Metasploit, Nmap, Burp Suite, John the Ripper
+- **OS:** Linux (Kali, Mint), Windows
 
 ---
 
