@@ -17,18 +17,14 @@ I am passionate about technology but mostly cybersecurity and penetration testin
 
 
 ## 🎓 Certifications
-<details>
-  <summary>Google Cybersecurity Certificate</summary>
-  <br>
-  
-  📄 *(Certificate badge and overview as well as the associated coursework and projects)*  [GCPC](https://github.com/dabaly/GCPC/blob/main/README.md) 
-</details>
+- [Google Cybersecurity Professional Certificate](https://github.com/dabaly/GCPC/blob/main/README.md) ✔️
+
 <details>
   <summary>TryHackMe Certifications</summary>
-  <p>✔️ Pre Security</p>
-  <p>✔️ Cybersecurity 101</p>
-  <p>🛠️ Junior Penetration Tester</p>
-  <p>📌 Web App Hacking</p>
+  <p>Pre Security ✔️</p>
+  <p>Cybersecurity 101 ✔️</p>
+  <p>Junior Penetration Tester 🛠️</p>
+  <p>Web App Hacking 🛠️</p>
 </details>
 
 
