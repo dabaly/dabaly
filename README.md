@@ -39,6 +39,7 @@ I am passionate about technology but mostly cybersecurity and penetration testin
 
 ## 🎯 Current Goals
 - 📚 Complete Tryhackme Learning Paths and solve hackthebox Labs.
+- 💻 Learn web development fundamentals and python.
 - 🏅 Earn cybersecurity certifications (Security+, CPTS/OSCP)
 - 📖 Share write-ups on CTF challenges and security research
   
