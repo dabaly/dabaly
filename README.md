@@ -33,17 +33,17 @@ I am passionate about technology but mostly cybersecurity and penetration testin
 
 ## 🛠️ Skills & Tools
 - **Cybersecurity Tools:** Wireshark, Metasploit, Nmap, Burp Suite, John the Ripper
-- **OS:** Linux (Kali, Mint), Windows
+- **OS:** Linux (Kali, Parrot, Mint), Windows
 
 ---
 
 ## 🎯 Current Goals
 - 📚 Complete Tryhackme Learning Paths and solve hackthebox Labs.
-- 💻 Learn web development fundamentals and python.
-- 🏅 Earn cybersecurity certifications (Security+, CPTS/OSCP)
+- 💻 Learn Information Gathering techniques (OSINT).
+- 🏅 Earn cybersecurity certifications (Security+)
 - 📖 Share write-ups on CTF challenges and security research
   
-  My ultimate goal is to make the digital world a safer place while constantly learning and improving my skills.
+  My ultimate goal is to constantly learn and improve my skills.
 
 ---
 
