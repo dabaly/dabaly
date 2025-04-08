@@ -39,7 +39,7 @@ I am passionate about technology but mostly cybersecurity and penetration testin
 
 ## 🎯 Current Goals
 - 📚 Complete Tryhackme Learning Paths and solve hackthebox Labs.
-- 💻 Learn Information Gathering techniques (OSINT).
+- 💻 Learn Information Gathering techniques (OSINT currently).
 - 🏅 Earn cybersecurity certifications (Security+)
 - 📖 Share write-ups on CTF challenges and security research
   
